@@ -15,6 +15,8 @@ Visual Studio 2022: Um ambiente de desenvolvimento integrado (IDE) para o desenv
 
 MySQL Server: Um sistema de gerenciamento de banco de dados relacional. Você pode baixar o MySQL Server em https://dev.mysql.com/downloads/mysql/ e seguir as instruções de instalação fornecidas.
 
+MySQL Workbench ou DBeaver: Uma ferramenta de interface gráfica para gerenciamento de bancos de dados MySQL. Você pode baixar o MySQL Workbench em https://www.mysql.com/products/workbench ou o DBeaver em https://dbeaver.io e seguir as instruções de instalação fornecidas.
+
 ## Configuração
 As etapas de configuração são as seguintes:
 
