@@ -66,7 +66,7 @@ O restore foi feito no banco correto?
 
 Se o MySql está remoto (não está em localhost) o usuário sendo usado para acesso ao banco deve ser configurado para acesso remoto.
 
-Executar ("Start Without Debugging") o projeto do front-end. A tela inicial "Funcionários" deve ser mostrada, listando os registros cadastrados em banco.
+Executar ("Start Without Debugging"), se o projeto do front-end estiver executando. A tela inicial "Funcionários" deve ser mostrada, listando os registros cadastrados em banco.
 
 ## Executando os Testes Unitários
 O projeto "test-processo-seletivo" contém os testes unitários para a aplicação. Para executá-los, siga as etapas abaixo:
