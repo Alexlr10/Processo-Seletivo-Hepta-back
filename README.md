@@ -19,9 +19,9 @@ MySQL Server: Um sistema de gerenciamento de banco de dados relacional. Você po
 As etapas de configuração são as seguintes:
 
 Clone este repositório para o seu ambiente local:
-bash
-Copy code
+
 git clone https://github.com/Alexlr10/Processo-Seletivo-Hepta-back.git
+
 Abra o projeto "processo-seletivo.sln" no Visual Studio 2022.
 
 No arquivo ".env" na raiz do projeto, atualize as seguintes variáveis de ambiente com as credenciais de acesso ao banco de dados mysql:
@@ -34,7 +34,7 @@ DB_USER=nome_do_usuario
 
 DB_PASSWORD=senha_do_usuario
 
-Executando a Aplicação
+## Executando a Aplicação
 
 No Visual Studio 2022, certifique-se de ter selecionado o projeto "processo-seletivo" como projeto de inicialização.
 
