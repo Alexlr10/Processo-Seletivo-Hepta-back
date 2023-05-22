@@ -36,6 +36,13 @@ DB_USER=nome_do_usuario
 
 DB_PASSWORD=senha_do_usuario
 
+## Importando o Banco de Dados
+Abra a ferramenta de interface do MySQL (por exemplo, MySQL Workbench ou DBeaver).
+
+Crie um novo banco de dados chamado processoseletivo.
+
+Importe o arquivo de dump do banco de dados fornecido no repositório, dump-processoseletivo.sql, para o banco de dados processoseletivo. Isso criará a estrutura do banco de dados e importará registros de exemplo.
+
 ## Executando a Aplicação
 
 No Visual Studio 2022, certifique-se de ter selecionado o projeto "processo-seletivo" como projeto de inicialização.
