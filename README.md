@@ -73,3 +73,6 @@ No menu "Teste", clique em "Executar" e selecione "Todos os Testes" para executa
 Os resultados dos testes serão exibidos no "Gerenciador de Testes" no Visual Studio.
 
 Após seguir essas etapas, você terá a aplicação ASP.NET Core "processo-seletivo" em execução, juntamente com os testes unitários sendo executados para validar o seu funcionamento.
+
+## Considerações Finais
+Este arquivo Readme.md forneceu instruções para executar a aplicação e seus testes.
